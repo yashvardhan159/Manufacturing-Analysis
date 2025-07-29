@@ -24,5 +24,3 @@ This project focuses on analyzing manufacturing industry data to extract meaning
 ## 📊 Dashboards & Reports
 - 📌 Power BI: _"Manufacturing KPI Dashboard"_  
 - 📌 Tableau: _"Production Performance Report"_
-
-> 📎 **Note:** Files too large to upload on GitHub? View dashboards via [Google Drive link](#) or [Tableau Public](#).
